@@ -1,0 +1,7 @@
+Server=bus-server216943.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=Amaan@63;Connection Timeout=30;
+
+20.204.7.133
+
+Pass : Amaan@63
+Server : bus-server216943
+region : eastasia
