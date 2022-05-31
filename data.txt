@@ -5,3 +5,7 @@ Server=bus-server216943.database.windows.net,1433;Initial Catalog=bus-db;User Id
 Pass : Amaan@63
 Server : bus-server216943
 region : eastasia
+
+
+TERM=dumb
+sqlcmd -S server216943.database.windows.net -P Amaan@63 -U cloudadmin -d bus-db
